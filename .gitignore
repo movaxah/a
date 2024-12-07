@@ -1,0 +1,12 @@
+**/.vscode/
+**/bin/
+**/test/
+**/test.c
+*.out
+*.o
+*.s
+*.elf
+*.pdb
+*.ilk
+*.exe
+*.bin
