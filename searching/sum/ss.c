@@ -1,4 +1,4 @@
-#include "../../Sorting/MergeSort/ms.c"
+#include "../../Sorting/merge/ms.c"
 
 int SumSearch(int *arr, int lenght, int x)
 {

@@ -1,4 +1,4 @@
-#include "../../Searching/BinarySearch/bs.c"
+#include "../../searching/binary/bs.c"
 
 void insertionSortBinarySearch(int *arr, int lenght)
 {
